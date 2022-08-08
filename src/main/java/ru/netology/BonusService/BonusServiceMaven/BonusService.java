@@ -1,3 +1,4 @@
+package ru.netology.BonusService.BonusServiceMaven;
 public class BonusService {
 
     public long calculate(long amount, boolean registered) {

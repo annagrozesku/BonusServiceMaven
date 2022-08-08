@@ -1,3 +1,5 @@
+import ru.netology.BonusService.BonusServiceMaven.BonusService;
+
 public class Main {
 
     public static void main(String[] args) {
